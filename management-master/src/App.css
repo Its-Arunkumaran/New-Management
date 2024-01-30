@@ -1,0 +1,14 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(140deg, rgb(240, 230, 216), rgb(77, 200, 169));
+}
+.glass {
+  display: grid;
+  height: 97%;
+  width: 97%;
+  border-radius: 2rem;
+  background-color: rgba(255, 255, 255, 0.516);
+}
